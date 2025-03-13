@@ -1,3 +1,3 @@
 import requests
 
-print('OK')
+print('Test')
